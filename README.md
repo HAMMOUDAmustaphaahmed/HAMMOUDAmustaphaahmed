@@ -75,6 +75,5 @@ Here are some ideas to get you started:
 
 ###
 
-<img src="https://raw.githubusercontent.com/HAMMOUDAmustaphaahmed/HAMMOUDAmustaphaahmed/output/snake.svg" alt="Snake animation" />
 
 ###
