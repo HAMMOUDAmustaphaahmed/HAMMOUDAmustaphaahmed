@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on Web 3.0
 - 🌱 I’m currently learning Keycloak 🤔
