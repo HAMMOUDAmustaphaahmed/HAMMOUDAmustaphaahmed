@@ -79,23 +79,24 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 <h2 align="left">📌 GitHub Repo</h2>
 <div align="center">
     <a href="https://github.com/HAMMOUDAmustaphaahmed/terminalWebsite" target="_blank">
-        <p>CarWize | Welcome to CarWize, your ultimate destination for automotive enthusiasts! </p>
-        <p>Flask | SQLALchemy </p>
-    </a>
+        <p>CarWize | Welcome to CarWize, your ultimate destination for automotive enthusiasts! </p></a>
+        <p>(Flask | SQLALchemy | JWT)</p>
+    
     <a href="https://github.com/HAMMOUDAmustaphaahmed/flask-blockchain" target="_blank">
         <p>Blockchain simulation with a web interface on Flask.</p>
-        <p>Flask | JS</p>
     </a>
+        <p>(Flask | JS)</p>
+    
 </div>
 <div align="center">
     <a href="https://github.com/HAMMOUDAmustaphaahmed/kryptify_web3.0" target="_blank">
-        <p>Explore the crypto world. Buy and sell cryptocurrencies easily on Kryptify.</p>
-        <p>NextJS | Ethereum | Solidity</p>
-    </a>
+        <p>Explore the crypto world. Buy and sell cryptocurrencies easily on Kryptify.</p></a>
+        <p>(NextJS | Ethereum | Solidity)</p>
+    
     <a href="https://github.com/HAMMOUDAmustaphaahmed/RESTFUL-API" target="_blank">
-        <p>Crud restful api</p>
-        <p>NestJS | Docker | Swagger | Prisma</p>
+        <p>Crud restful api</p>    
     </a>
+    <p>(NestJS | Docker | Swagger | Prisma)</p>
 </div>
 
 
