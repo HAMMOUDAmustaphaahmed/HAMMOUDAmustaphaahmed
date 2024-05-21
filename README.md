@@ -1,10 +1,10 @@
 <img src="./assets/8bitbackground.gif" alt="banner">
 <div align="center">
-    <h1 align="left">😎 Brandon Ban</h1>
+    <h1 align="left">😎 HAMMOUDA Ahmed Mustapha</h1>
     <img align="right" width="180px" height="180px" src="./assets/luffy.gif" loop="infinite"/>
 </div>
 
-**`Full Stack Software Engineer [Undergraduate Student|Malaysian|INTJ-A]`**
+**`Full Stack Software Engineer [ Python Developer | Tunisian ]`**
 
 <p style='text-align: justify;'>
 Welcome to my GitHub profile, I'm Hammouda Ahmed Mustapha! a highly motivated and disciplined Software engineer, I am deeply committed to pursuing a career in full-stack development. Through a combination of self-study and collaboration with my peers, I am continuously working to hone my skills and achieve my goal of becoming a full-fledged full-stack developer. 
@@ -21,7 +21,7 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
     <a href="mailto:hammouda.ahmedmustapha@gmail.com">
         <img alt="E-mail" title="Contact me via E-mail" src="https://custom-icon-badges.demolab.com/badge/Email-8B0000?style=for-the-badge&logo=mail&logoColor=white">
     </a>
-    <a href="https://github.com/bbkx226">
+    <a href="https://github.com/HAMMOUDAmustaphaahmed">
         <img src="https://komarev.com/ghpvc/?username=bbkx226&color=blueviolet&style=for-the-badge&label=Profile+Views">
     </a>
 </p>
@@ -63,8 +63,8 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 <br />
 <h2 align="left">📊 GitHub Stats</h2>
 <div align="center">
-    <img width="360px" alt="GitHub Stats" height="180px" float="left" src="https://awesome-github-stats.azurewebsites.net/user-stats/bbkx226?theme=dark&cardType=github&ring=D4AF37&show_icons=true&preferLogin=true&title=D4AF37">
-    <img width="400px" alt="GitHub Streak" height="180px" float="right" src="https://streak-stats.demolab.com/?user=bbkx226&theme=great-gatsby&mode=weekly&date_format=M%20j[,%20Y]">
+    <img width="360px" alt="GitHub Stats" height="180px" float="left" src="https://awesome-github-stats.azurewebsites.net/user-stats/HAMMOUDAmustaphaahmed?theme=dark&cardType=github&ring=D4AF37&show_icons=true&preferLogin=true&title=D4AF37">
+    <img width="400px" alt="GitHub Streak" height="180px" float="right" src="https://streak-stats.demolab.com/?user=HAMMOUDAmustaphaahmed&theme=great-gatsby&mode=weekly&date_format=M%20j[,%20Y]">
 </div>
 <br />
 <br />
@@ -73,28 +73,28 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 <div>
     <img align="left" src="./assets/angel.png" width="200" height="200" />
     <img align="right" src="./assets/angel-flipped.png" width="200" height="200" />
-    <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbkx226&layout=compact&langs_count=6&exclude_repo=JomStay-Hostel,JavaProgrammingPractice-II,JavaProgrammingPractice-I" />
+    <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMMOUDAmustaphaahmed&layout=compact&langs_count=6&exclude_repo=JomStay-Hostel,JavaProgrammingPractice-II,JavaProgrammingPractice-I" />
 </div>
 
 <h2 align="left">📌 GitHub Repo</h2>
 <div align="center">
-    <a href="https://github.com/bbkx226/terminalWebsite" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=terminalWebsite&hide=stars&show_owner=true"/>
+    <a href="https://github.com/HAMMOUDAmustaphaahmed/terminalWebsite" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HAMMOUDAmustaphaahmed&repo=terminalWebsite&hide=stars&show_owner=true"/>
     </a>
-    <a href="https://github.com/bbkx226/AlphaGoSpirit" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=AlphaGoSpirit&hide=stars&show_owner=true"/>
-    </a>
-</div>
-<div align="center">
-    <a href="https://github.com/bbkx226/quizbraniac" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=quizbraniac&hide=stars&show_owner=true"/>
-    </a>
-    <a href="https://github.com/bbkx226/ImageGenerationAI" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=ImageGenerationAI&hide=stars&show_owner=true"/>
+    <a href="https://github.com/HAMMOUDAmustaphaahmed/AlphaGoSpirit" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HAMMOUDAmustaphaahmed&repo=AlphaGoSpirit&hide=stars&show_owner=true"/>
     </a>
 </div>
 <div align="center">
-    <a href="https://github.com/bbkx226/AIverse" target="_blank">
+    <a href="https://github.com/HAMMOUDAmustaphaahmed/quizbraniac" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HAMMOUDAmustaphaahmed&repo=quizbraniac&hide=stars&show_owner=true"/>
+    </a>
+    <a href="https://github.com/HAMMOUDAmustaphaahmed/ImageGenerationAI" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HAMMOUDAmustaphaahmed&repo=ImageGenerationAI&hide=stars&show_owner=true"/>
+    </a>
+</div>
+<div align="center">
+    <a href="https://github.com/HAMMOUDAmustaphaahmed/AIverse" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=AIverse&hide=stars&show_owner=true"/>
     </a>
     <a href="https://github.com/bbkx226/AI-Summarizer" target="_blank">
