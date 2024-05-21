@@ -4,7 +4,7 @@
     <img align="right" width="180px" height="180px" src="./assets/luffy.gif" loop="infinite"/>
 </div>
 
-**`Full Stack Software Engineer [Undergraduate Student|Malaysian|INTJ-A]`**
+**`Full Stack Software Engineer `**
 
 <p style='text-align: justify;'>
 Welcome to my GitHub profile, I'm Hammouda Ahmed Mustapha! a highly motivated and disciplined Software engineer, I am deeply committed to pursuing a career in full-stack development. Through a combination of self-study and collaboration with my peers, I am continuously working to hone my skills and achieve my goal of becoming a full-fledged full-stack developer. 
