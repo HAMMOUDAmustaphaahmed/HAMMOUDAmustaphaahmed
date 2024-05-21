@@ -79,36 +79,26 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 <h2 align="left">📌 GitHub Repo</h2>
 <div align="center">
     <a href="https://github.com/HAMMOUDAmustaphaahmed/terminalWebsite" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HAMMOUDAmustaphaahmed&repo=terminalWebsite&hide=stars&show_owner=true"/>
+        <p>CarWize | Welcome to CarWize, your ultimate destination for automotive enthusiasts! </p>
+        <p>Flask | SQLALchemy </p>
     </a>
-    <a href="https://github.com/HAMMOUDAmustaphaahmed/AlphaGoSpirit" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HAMMOUDAmustaphaahmed&repo=AlphaGoSpirit&hide=stars&show_owner=true"/>
-    </a>
-</div>
-<div align="center">
-    <a href="https://github.com/HAMMOUDAmustaphaahmed/quizbraniac" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HAMMOUDAmustaphaahmed&repo=quizbraniac&hide=stars&show_owner=true"/>
-    </a>
-    <a href="https://github.com/HAMMOUDAmustaphaahmed/ImageGenerationAI" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HAMMOUDAmustaphaahmed&repo=ImageGenerationAI&hide=stars&show_owner=true"/>
+    <a href="https://github.com/HAMMOUDAmustaphaahmed/flask-blockchain" target="_blank">
+        <p>Blockchain simulation with a web interface on Flask.</p>
+        <p>Flask | JS</p>
     </a>
 </div>
 <div align="center">
-    <a href="https://github.com/HAMMOUDAmustaphaahmed/AIverse" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=AIverse&hide=stars&show_owner=true"/>
+    <a href="https://github.com/HAMMOUDAmustaphaahmed/kryptify_web3.0" target="_blank">
+        <p>Explore the crypto world. Buy and sell cryptocurrencies easily on Kryptify.</p>
+        <p>NextJS | Ethereum | Solidity</p>
     </a>
-    <a href="https://github.com/bbkx226/AI-Summarizer" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=AI-Summarizer&hide=stars&show_owner=true"/>
-    </a>
-</div>
-<div align="center">
-    <a href="https://github.com/bbkx226/BranCoin" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=BranCoin&hide=stars&show_owner=true"/>
-    </a>
-    <a href="https://github.com/bbkx226/Discord-Bot" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=Discord-Bot&hide=stars&show_owner=true"/>
+    <a href="https://github.com/HAMMOUDAmustaphaahmed/RESTFUL-API" target="_blank">
+        <p>Crud restful api</p>
+        <p>NestJS | Docker | Swagger | Prisma</p>
     </a>
 </div>
+
+
 
 <br />
 <h2 align="left">🐍 GitHub Contribution</h2>
