@@ -73,7 +73,7 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 <div>
     <img align="left" src="./assets/angel.png" width="200" height="200" />
     <img align="right" src="./assets/angel-flipped.png" width="200" height="200" />
-    <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMMOUDAmustaphaahmed&layout=compact&langs_count=6&exclude_repo=JomStay-Hostel,JavaProgrammingPractice-II,JavaProgrammingPractice-I" />
+    <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMMOUDAmustaphaahmed&layout=compact&langs_count=10&exclude_repo=JomStay-Hostel,JavaProgrammingPractice-II,JavaProgrammingPractice-I" />
 </div>
 
 <h2 align="left">📌 GitHub Repo</h2>
