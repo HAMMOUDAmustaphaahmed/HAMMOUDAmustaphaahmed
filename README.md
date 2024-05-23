@@ -81,7 +81,8 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
     <a href="https://github.com/HAMMOUDAmustaphaahmed/terminalWebsite" target="_blank">
         <p>CarWize | Welcome to CarWize, your ultimate destination for automotive enthusiasts! </p></a>
         <p>(Flask | SQLALchemy | JWT)</p>
-    
+</div>
+<div align="center">
     <a href="https://github.com/HAMMOUDAmustaphaahmed/flask-blockchain" target="_blank">
         <p>Blockchain simulation with a web interface on Flask.</p>
     </a>
@@ -92,7 +93,8 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
     <a href="https://github.com/HAMMOUDAmustaphaahmed/kryptify_web3.0" target="_blank">
         <p>Explore the crypto world. Buy and sell cryptocurrencies easily on Kryptify.</p></a>
         <p>(NextJS | Ethereum | Solidity)</p>
-    
+</div>
+<div align="center">
     <a href="https://github.com/HAMMOUDAmustaphaahmed/RESTFUL-API" target="_blank">
         <p>Crud restful api</p>    
     </a>
