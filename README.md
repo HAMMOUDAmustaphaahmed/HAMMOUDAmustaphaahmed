@@ -1,4 +1,4 @@
-<body>
+
 <img src="./assets/8bitbackground.gif" alt="banner">
 <div align="center">
     <h1 align="left">😎 HAMMOUDA Ahmed Mustapha</h1>
@@ -109,24 +109,7 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 <div align="center">
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bbkx226/bbkx226/output/github-contribution-grid-snake.svg" />
 </div>
- <script> 
-      document.addEventListener('contextmenu', event=> event.preventDefault()); 
-      document.onkeydown = function(e) { 
-      if(event.keyCode == 123) { 
-      return false; 
-      } 
-      if(e.ctrlKey && e.shiftKey && e.keyCode == 'I'.charCodeAt(0)){ 
-      return false; 
-      } 
-      if(e.ctrlKey && e.shiftKey && e.keyCode == 'J'.charCodeAt(0)){ 
-      return false; 
-      } 
-      if(e.ctrlKey && e.keyCode == 'U'.charCodeAt(0)){ 
-      return false; 
-      } 
-      } 
-      </script> 
-</body>
+
 
 
 
