@@ -98,7 +98,7 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 <div align="center">
     <a href="https://github.com/HAMMOUDAmustaphaahmed/invento3.0" target="_blank">
         <p>INVENTO | A secure Flask-based app</p> 
-        <p>stock control, orders, supplier/factory data, and transaction history across locations</p>    
+        stock control, orders, supplier/factory data, and transaction history across locations    
     </a>
     <p>(Flask | MySQL | REST API | SQLAlchemy)</p>
 </div>
