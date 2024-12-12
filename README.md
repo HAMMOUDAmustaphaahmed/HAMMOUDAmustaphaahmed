@@ -97,7 +97,8 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 </div>
 <div align="center">
     <a href="https://github.com/HAMMOUDAmustaphaahmed/invento3.0" target="_blank">
-        <p>A secure Flask-based app with user authentication, admin dashboard, and data security. Manages users, tracks articles, logs purchases/sales, and streamlines inventory. Key models support stock control, orders, supplier/factory data, and transaction history across locations</p>    
+        <p>INVENTO | A secure Flask-based app</p> 
+        <p>stock control, orders, supplier/factory data, and transaction history across locations</p>    
     </a>
     <p>(Flask | MySQL | REST API | SQLAlchemy)</p>
 </div>
