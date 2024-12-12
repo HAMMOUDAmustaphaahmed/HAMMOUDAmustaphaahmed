@@ -100,8 +100,8 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
         <p>INVENTO | A secure Flask-based app</p> 
        
     </a>
-    <p> stock control, orders, supplier/factory data, and transaction history across locations</p>
-    <p>(Flask | MySQL | REST API | SQLAlchemy)</p>
+    <p> stock control, orders, supplier/factory data, and transaction history across locations | 
+    (Flask | MySQL | REST API | SQLAlchemy)</p>
 </div>
 
 
