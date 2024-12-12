@@ -79,8 +79,8 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 
 <h2 align="left">📌 GitHub Repo</h2>
 <div align="center">
-    <a href="https://github.com/HAMMOUDAmustaphaahmed/terminalWebsite" target="_blank">
-        <p>CarWize | Welcome to CarWize, your ultimate destination for automotive enthusiasts! </p></a>
+    <a href="https://github.com/HAMMOUDAmustaphaahmed/Resume_Checker" target="_blank">
+        <p>Resume Checker | Welcome to Resume Checker, test your CV ! </p></a>
         <p>(Flask | SQLALchemy | JWT)</p>
 </div>
 <div align="center">
@@ -96,10 +96,10 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
         <p>(NextJS | Ethereum | Solidity)</p>
 </div>
 <div align="center">
-    <a href="https://github.com/HAMMOUDAmustaphaahmed/RESTFUL-API" target="_blank">
-        <p>Crud restful api</p>    
+    <a href="https://github.com/HAMMOUDAmustaphaahmed/invento3.0" target="_blank">
+        <p>A secure Flask-based app with user authentication, admin dashboard, and data security. Manages users, tracks articles, logs purchases/sales, and streamlines inventory. Key models support stock control, orders, supplier/factory data, and transaction history across locations</p>    
     </a>
-    <p>(NestJS | Docker | Swagger | Prisma)</p>
+    <p>(Flask | MySQL | REST API | SQLAlchemy)</p>
 </div>
 
 
